@@ -1,0 +1,179 @@
+{
+ "winner": "B",
+ "dev_visible_scores": {
+  "A": [
+   0.4119,
+   -1
+  ],
+  "C": [
+   0.4808,
+   0
+  ],
+  "B": [
+   0.5561,
+   -1
+  ]
+ },
+ "tests": {
+  "grim": {
+   "path": "baselines/grim_check.py",
+   "visible": {
+    "recall": 0.0,
+    "macro_recall": 0.0,
+    "recall_by_type": {
+     "ci_excludes_estimate": "0/13",
+     "count_pct_mismatch": "0/9",
+     "n_text_mismatch": "0/12",
+     "pct_sum_break": "0/13",
+     "sign_flip": "0/9",
+     "star_flip": "0/15"
+    },
+    "n_planted": 71
+   },
+   "heldout": {
+    "recall": 0.0,
+    "macro_recall": 0.0,
+    "recall_by_type": {
+     "mean_outside_range": "0/15",
+     "se_misreport": "0/15",
+     "statcheck_p_mismatch": "0/9",
+     "text_table_transposition": "0/39"
+    },
+    "n_planted": 78
+   },
+   "original_40": {
+    "applicable_papers": 0,
+    "papers_flagged": 0,
+    "flags": 0
+   }
+  },
+  "statcheck_py": {
+   "path": "baselines/statcheck_py.py",
+   "visible": {
+    "recall": 0.0,
+    "macro_recall": 0.0,
+    "recall_by_type": {
+     "ci_excludes_estimate": "0/13",
+     "count_pct_mismatch": "0/9",
+     "n_text_mismatch": "0/12",
+     "pct_sum_break": "0/13",
+     "sign_flip": "0/9",
+     "star_flip": "0/15"
+    },
+    "n_planted": 71
+   },
+   "heldout": {
+    "recall": 0.1154,
+    "macro_recall": 0.25,
+    "recall_by_type": {
+     "mean_outside_range": "0/15",
+     "se_misreport": "0/15",
+     "statcheck_p_mismatch": "9/9",
+     "text_table_transposition": "0/39"
+    },
+    "n_planted": 78
+   },
+   "original_40": {
+    "applicable_papers": 8,
+    "papers_flagged": 4,
+    "flags": 5
+   }
+  },
+  "climber_A": {
+   "path": "climb/runs/A/best.py",
+   "visible": {
+    "recall": 0.3099,
+    "macro_recall": 0.2872,
+    "recall_by_type": {
+     "ci_excludes_estimate": "12/13",
+     "count_pct_mismatch": "0/9",
+     "n_text_mismatch": "0/12",
+     "pct_sum_break": "0/13",
+     "sign_flip": "3/9",
+     "star_flip": "7/15"
+    },
+    "n_planted": 71
+   },
+   "heldout": {
+    "recall": 0.1026,
+    "macro_recall": 0.1333,
+    "recall_by_type": {
+     "mean_outside_range": "0/15",
+     "se_misreport": "8/15",
+     "statcheck_p_mismatch": "0/9",
+     "text_table_transposition": "0/39"
+    },
+    "n_planted": 78
+   },
+   "original_40": {
+    "applicable_papers": 36,
+    "papers_flagged": 6,
+    "flags": 38
+   }
+  },
+  "climber_B": {
+   "path": "climb/runs/B/best.py",
+   "visible": {
+    "recall": 0.3944,
+    "macro_recall": 0.3971,
+    "recall_by_type": {
+     "ci_excludes_estimate": "7/13",
+     "count_pct_mismatch": "5/9",
+     "n_text_mismatch": "9/12",
+     "pct_sum_break": "7/13",
+     "sign_flip": "0/9",
+     "star_flip": "0/15"
+    },
+    "n_planted": 71
+   },
+   "heldout": {
+    "recall": 0.1538,
+    "macro_recall": 0.2,
+    "recall_by_type": {
+     "mean_outside_range": "12/15",
+     "se_misreport": "0/15",
+     "statcheck_p_mismatch": "0/9",
+     "text_table_transposition": "0/39"
+    },
+    "n_planted": 78
+   },
+   "original_40": {
+    "applicable_papers": 40,
+    "papers_flagged": 4,
+    "flags": 14
+   }
+  },
+  "climber_C": {
+   "path": "climb/runs/C/best.py",
+   "visible": {
+    "recall": 0.2535,
+    "macro_recall": 0.249,
+    "recall_by_type": {
+     "ci_excludes_estimate": "7/13",
+     "count_pct_mismatch": "0/9",
+     "n_text_mismatch": "0/12",
+     "pct_sum_break": "0/13",
+     "sign_flip": "5/9",
+     "star_flip": "6/15"
+    },
+    "n_planted": 71
+   },
+   "heldout": {
+    "recall": 0.1026,
+    "macro_recall": 0.1333,
+    "recall_by_type": {
+     "mean_outside_range": "0/15",
+     "se_misreport": "8/15",
+     "statcheck_p_mismatch": "0/9",
+     "text_table_transposition": "0/39"
+    },
+    "n_planted": 78
+   },
+   "original_40": {
+    "applicable_papers": 38,
+    "papers_flagged": 6,
+    "flags": 20
+   }
+  }
+ }
+}
