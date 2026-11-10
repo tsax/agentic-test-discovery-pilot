@@ -1,0 +1,3 @@
+corpus/raw/
+__pycache__/
+*.pyc
