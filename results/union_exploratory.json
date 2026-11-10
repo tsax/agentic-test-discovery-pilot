@@ -1,0 +1,8 @@
+{
+ "visible:B+A": "43/71 = 0.61",
+ "visible:B+A+C": "47/71 = 0.66",
+ "visible:statcheck+B+A+C": "47/71 = 0.66",
+ "heldout:B+A": "20/78 = 0.26",
+ "heldout:B+A+C": "23/78 = 0.29",
+ "heldout:statcheck+B+A+C": "32/78 = 0.41"
+}
