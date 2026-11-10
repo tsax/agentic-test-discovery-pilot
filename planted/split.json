@@ -1,0 +1,5 @@
+{
+  "seed": 20261110,
+  "visible": ["star_flip", "sign_flip", "n_text_mismatch", "pct_sum_break", "ci_excludes_estimate", "count_pct_mismatch"],
+  "heldout": ["se_misreport", "mean_outside_range", "statcheck_p_mismatch", "text_table_transposition"]
+}

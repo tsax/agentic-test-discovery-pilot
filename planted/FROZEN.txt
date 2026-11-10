@@ -1,0 +1,6 @@
+# Frozen planter. Locked 2026-11-10T22:06:21Z. Do not edit these files; any change invalidates the answer key.
+90076eed562d0c9b4cebafbf06c717cb51e91480fd9073dc10f29a7cd1ba356f  plant.py
+6bec319eda59d1411b80f974780caf1446e79f0c7c41706a3411d33400eb8268  split.json
+1603876ee40c34f9e6155666a349b69145e5f15d7bcd4a41922efdd28bb9e036  ERROR_TYPES.md
+# corpus/parsed (40 files) combined digest at final run:
+235f7722cf20ba658789adc7b5d84374ddac75b77609214beb420ffd7883872b  corpus/parsed/*.json (sha256 of sorted per-file sha256 list)

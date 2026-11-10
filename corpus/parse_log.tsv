@@ -1,0 +1,3 @@
+paper_id	table_id	label	reason
+10.1371_journal.pone.0284692	t2	Table 2	2 <table> elements in one table-wrap
+10.1371_journal.pone.0355484	t4	Table 4	non-rectangular widths=[6, 7]

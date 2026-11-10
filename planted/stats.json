@@ -1,0 +1,75 @@
+{
+  "n_papers": 40,
+  "seed": 20261110,
+  "per_split": {
+    "visible": 175,
+    "heldout": 187
+  },
+  "per_type": {
+    "star_flip": {
+      "split": "visible",
+      "copies": 36,
+      "papers_applicable": 12,
+      "sites": 946
+    },
+    "se_misreport": {
+      "split": "heldout",
+      "copies": 36,
+      "papers_applicable": 12,
+      "sites": 946
+    },
+    "sign_flip": {
+      "split": "visible",
+      "copies": 25,
+      "papers_applicable": 11,
+      "sites": 39
+    },
+    "n_text_mismatch": {
+      "split": "visible",
+      "copies": 33,
+      "papers_applicable": 17,
+      "sites": 42
+    },
+    "pct_sum_break": {
+      "split": "visible",
+      "copies": 27,
+      "papers_applicable": 10,
+      "sites": 44
+    },
+    "mean_outside_range": {
+      "split": "heldout",
+      "copies": 36,
+      "papers_applicable": 12,
+      "sites": 194
+    },
+    "ci_excludes_estimate": {
+      "split": "visible",
+      "copies": 36,
+      "papers_applicable": 13,
+      "sites": 247
+    },
+    "statcheck_p_mismatch": {
+      "split": "heldout",
+      "copies": 18,
+      "papers_applicable": 6,
+      "sites": 23
+    },
+    "count_pct_mismatch": {
+      "split": "visible",
+      "copies": 18,
+      "papers_applicable": 6,
+      "sites": 185
+    },
+    "text_table_transposition": {
+      "split": "heldout",
+      "copies": 97,
+      "papers_applicable": 34,
+      "sites": 643
+    }
+  },
+  "papers_with_any_applicable": 37,
+  "papers_with_any_applicable_by_split": {
+    "visible": 34,
+    "heldout": 37
+  }
+}

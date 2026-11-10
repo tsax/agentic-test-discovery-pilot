@@ -1,0 +1,645 @@
+{
+ "paper_id": "10.1371_journal.pone.0308171__2",
+ "doi": "10.1371/journal.pone.0308171",
+ "title": "Factors influencing the happiness of male correctional officers: A cross-sectional study in South Korea",
+ "year": 2024,
+ "data_availability": "All relevant data are within the paper and its Supporting information files.",
+ "paragraphs": [
+  {
+   "para_id": "p0",
+   "section": "Introduction",
+   "text": "As of December 31, 2022, South Korea operated 54 correctional facilities, which employed a total of 16,808 correctional officers, of whom 96.4% work directly with inmates. These officers are increasingly using mental health programs due to the intense job stress associated with the combined responsibilities of inmate management and supervision, rehabilitation and reform. Additional stress factors include overcrowded facilities, shift work, witnessing suicide (attempts), and experiencing assaults by inmates. Analysis of mental health program usage among Korean correctional officers reveals a dramatic increase of 282.18% in the last five years, growing from 1,156 users in 2017 to 4,418 in 2022 [1]. Moreover, correctional officers rate their job satisfaction relatively low, with an overall score of 2.4 out of 5 in job happiness measures, which includes 2.5 for significance in correctional work, 2.9 for pleasure in the work environment, and 2.6 for utilization of abilities and skills, indicating a perception of their occupation as one of the least happy [2]."
+  },
+  {
+   "para_id": "p1",
+   "section": "Introduction",
+   "text": "Happiness is a state of contentment and joy experienced in everyday life, not realized by elimination of negative emotions, but rather by discovery and development of personal strengths, thereby fostering positive emotions in life’s experiences [3]. Recognizing job satisfaction as a key element of workplace quality is one of the foundational steps to increasing personal happiness [4]. Job satisfaction is an evaluative state that represents satisfaction and positive emotions concerning one’s job [5]. Job Satisfaction is a critical requirement for an individual to achieve success, happiness, and productivity. It is particularly essential for correctional officers to enable them to function effectively within correctional facilities [6]. When correctional officers have high job satisfaction, it leads to a sense of happiness at work, increases motivation, interest in their role, and enables them to find meaning and purpose in their work. It also fosters positive relationships with colleagues and dedication to their duties [7]."
+  },
+  {
+   "para_id": "p2",
+   "section": "Introduction",
+   "text": "Leisure satisfaction also influences of individual happiness [8–10]. Leisure activities are voluntary engagement in specific activities during one’s free time, with the purpose of deriving pleasure or happiness [11]. Leisure satisfaction refers to an individual’s positive assessment of their engagement in leisure activities [12]. Engaging in leisure activities helps individuals to build social relationships and acquire new skills and knowledge, so the individual’s likelihood of becoming specialized in these activities increases [10, 13]. As individuals’ leisure activities become increasingly specialized, they experience enhanced self-expression and joy, and develop methods and skills for stress relief, consequently increasing their [9, 10]. Leisure activities can have a positive influence on job satisfaction and efficiency, especially when individuals work in high-stress job environments. The activities help alleviate job stress and increase happiness by enabling individuals to gain valuable experiences in life [13, 14]."
+  },
+  {
+   "para_id": "p3",
+   "section": "Introduction",
+   "text": "Happiness of an individual is intrinsically linked to the happiness of their family. In cultures like South Korea, within the broader Asian context, family happiness is often given more importance than individual happiness. This tradition is due to complex social norms that emphasize kinship relationships and a higher degree of prosocial behavior towards family members compared to other groups [15]. For family happiness, maintenance of harmony, peace, and balance among family members is essential [16]. Family strengths lie in the potential to increase mutual understanding and interaction among family members, to increase sharing of common values and beliefs, and to improve individual capabilities within the family dynamic [17]. Correctional officials often encounter challenges at work due to conflicts between their workplace responsibilities and family life. Such conflicts between job duties and family obligations typically emerge when negative job aspects, like role overload, shift work, and excessively authoritative attitudes, seep into family dynamics [18]. Thus, for correctional officers to achieve personal happiness, they must have support in fostering family strengths."
+  },
+  {
+   "para_id": "p4",
+   "section": "Introduction",
+   "text": "A review of previous research reveals a lack of quantitative or qualitative studies specifically investigating the happiness of correctional officers. The “bottom-up spillover” theory posits that happiness is directly influenced by the fulfillment of satisfaction in foundational areas such as occupation, leisure activities, family, and income, which in turn affect the broader concept of happiness [19]. Working in correctional facilities entails managing and supervising inmates who have committed crimes, so it is both a rewarding and challenging occupation. If the happiness of individual correctional officers is continuously prioritized, it could increase the efficiency of achieving key correctional goals, such as the successful reintegration of offenders and the prevention of reoffending. Thus, this study focuses on understanding how job satisfaction, leisure satisfaction, and family strengths affect the happiness of correctional officers, aligned with the bottom-up spillover theory of happiness. The findings are intended to serve as foundational data for the development of programs aimed at increasing the happiness of correctional officers and promoting both their physical and their mental health."
+  },
+  {
+   "para_id": "p5",
+   "section": "Materials and methods",
+   "text": "This study used a descriptive survey approach using a self-reported survey method. The primary aim was to investigate how job satisfaction, leisure satisfaction, and family strengths affect the happiness of correctional officers."
+  },
+  {
+   "para_id": "p6",
+   "section": "Materials and methods",
+   "text": "They were male correctional officers, selected by random sampling. The sample size was calculated using the G*Power 3.1 program to ensure adequate power for the study. The criteria included a significance level (α) of 0.05, power (1-β) of 0.95, an effect size of 0.10, and the input of 11 independent variables, yielding a required convenience sample size of 262. Considering the non-return rate of questionnaires and the typical10% drop-out rate due to insincere responses, 290 questionnaires were distributed. After excluding 21 of these due to non-response or insincerity, the final sample size was 269."
+  },
+  {
+   "para_id": "p7",
+   "section": "Materials and methods",
+   "text": "This study used the Korea Minnesota Satisfaction Questionnaire (K-MSQ), which was adapted by Park [20] from the Minnesota Satisfaction Questionnaire (MSQ) [21]. This adaptation was validated for both reliability and validity. The K-MSQ comprises three subscales: extrinsic satisfaction, intrinsic satisfaction, and general satisfaction, totaling 20 items. Each item is scored on a 5-point Likert scale from 1 (very dissatisfied) to 5 (very satisfied), with high scores indicating high satisfaction. In this study, the Cronbach’s alpha for the scale was 0.95."
+  },
+  {
+   "para_id": "p8",
+   "section": "Materials and methods",
+   "text": "This study used the Leisure Satisfaction Scale (LSS), developed by [22] and adapted [23]. The scale includes six subscales: psychological, educational, social, relaxation, physical, and aesthetic satisfaction, encompassing a total of 24 items. Each item is rated on a five-point Likert scale, ranging from 1 (not at all) to 5 (very much so), with high scores indicating high leisure satisfaction. In this study, the Cronbach’s alpha for the scale was 0.95."
+  },
+  {
+   "para_id": "p9",
+   "section": "Materials and methods",
+   "text": "This study used the Korea Family Strengths Scale (KFSS-II), developed by Yoo et al. [17] The scale consists of five sub-dimensions: family resilience, mutual respect and acceptance, qualitative bonding, economic stability and cooperation, and family culture and social participation, with a total of 22 items. Each item is rated on a five-point Likert scale, ranging from 1 (not at all) to 5 (very much so), with a high score indicates high family strengths. In this study, the Cronbach’s alpha for the scale was 0.95."
+  },
+  {
+   "para_id": "p10",
+   "section": "Materials and methods",
+   "text": "For this study, the shortened Korean version of the happiness scale developed by Suh and Koo [24] was used. This scale consists of nine items encompassing three sub-factors that are central to the experience of happiness: life satisfaction, positive emotions, and negative emotions. Life satisfaction assesses the level of satisfaction with personal aspects, interpersonal relationships, and group memberships. Positive and negative emotions quantify the extent of emotions that are closely associated with happiness. Negative items were reverse-scored. Each item is scored on a seven-point Likert scale, ranging from 1 (not at all) to 7 (very much so), with higher scores indicating greater levels of happiness. In this study, the Cronbach’s alpha for the scale was 0.81."
+  },
+  {
+   "para_id": "p11",
+   "section": "Materials and methods",
+   "text": "The data were collected from February 13 to March 10, 2024, targeting correctional officers employed at correctional facilities in cities P and S. The researchers personally visited these facilities, explained the purpose and method of the study to the psychotherapists there, and secured permission and cooperation for the research. Furthermore, the researchers engaged directly with potential participants who met the selection criteria, explained the purpose of the study and the method for responding to the questionnaire to solicit cooperation in data collection. The survey took approximately 20 minutes to complete, and participants who finished the survey received a small reward of appreciation."
+  },
+  {
+   "para_id": "p12",
+   "section": "Materials and methods",
+   "text": "The collected data were analyzed using the SPSS/WIN 22.0 program according to the research objectives. The distribution of the general characteristics of subjects was analyzed using frequency, percentage, mean, and standard deviation. The subjects’ job satisfaction, leisure satisfaction, family strengths, and happiness were also analyzed in terms of mean and standard deviation. Differences in happiness based on the subjects’ general characteristics were analyzed using independent t-tests and one-way ANOVA, with post-hoc analysis conducted using the Scheffé test. The pairwise correlations of job satisfaction, leisure satisfaction, family strengths, and happiness were quantified using Pearson’s correlation coefficients. The factors that influence the happiness of correctional officers were examined using multiple linear regression analysis."
+  },
+  {
+   "para_id": "p13",
+   "section": "Materials and methods",
+   "text": "This study was approved by the D University Institutional Review Board (IRB NO. CUIRB-2023-0060). The survey questionnaire incorporated detailed explanations about the necessity and purpose of the study, research method, estimated time commitment, the possibility of withdrawal during the study, voluntary participation, potential benefits and disadvantages of participating, as well as the management and confidentiality of personal information. Contact information for the researchers was also provided for any inquiries related to the study. The survey was administered only to those who understood and consented to these terms, and their responses were used for data analysis. the participants were assured that survey results would be quantified, processed, and used exclusively for the purposes of this research, that their anonymity would be preserved and that they could opt out of the survey at any point without any negative consequences. Following these explanations, written consent was obtained from each participants. They then individually completed the questionnaires, which were subsequently collected directly by the research team."
+  },
+  {
+   "para_id": "p14",
+   "section": "Results",
+   "text": "The results of this study regarding happiness scores based on demographic characteristics are as follows (Table 1). Each of the following comparisons considers the group being presented."
+  },
+  {
+   "para_id": "p15",
+   "section": "Results",
+   "text": "The most populous age group was the 40s, with 32.0% (86 subjects). This group also had the highest average happiness score of 4.34 (± 0.85), although the difference was not statistically significant (p = 0.106)."
+  },
+  {
+   "para_id": "p16",
+   "section": "Results",
+   "text": "The ’Married’ category was the largest, with 55.8% (150 subjects); it also recorded the highest average happiness score of 4.34 (±0.73). This difference was statistically significant (p = 0.014)."
+  },
+  {
+   "para_id": "p17",
+   "section": "Results",
+   "text": "The most common number of children was ’0’, with 49.8% (134 subjects). The highest average happiness score was among those with two children, scoring 4.39 (± 0.84), but this difference was not statistically significant (p = 0.394)."
+  },
+  {
+   "para_id": "p18",
+   "section": "Results",
+   "text": "The largest group was those with ’No religion’, with 62.1% (167 subjects); this group also had the highest average happiness score at 4.33 (± 0.79), but the difference was not statistically significant (p = 0.135)."
+  },
+  {
+   "para_id": "p19",
+   "section": "Results",
+   "text": "The largest group was those with ’10 years or less’ of service, accounting for 47.6% (128 subjects). The highest average happiness score was among those with ’more than 31 years’ of service, at 4.56 (±0.72), although this difference was not statistically significant (p = 0.357)."
+  },
+  {
+   "para_id": "p20",
+   "section": "Results",
+   "text": "’Grade 9’ had the highest representation with 27.5% (74 subjects). However, ’Grade 6’ had the highest average happiness score was of 4.40 (±0.61), but this difference was not statistically significant (p = 0.595)."
+  },
+  {
+   "para_id": "p21",
+   "section": "Results",
+   "text": "Most of the participants were in the ’Security’ department with 79.9% (215 subjects). The highest average happiness scores were in the ’Welfare’ and ’Vocational Training’ departments, both scoring 4.75 (±0.91, 0.42), but the differences were not statistically significant (p = 0.395)."
+  },
+  {
+   "para_id": "p22",
+   "section": "Results",
+   "text": "Most of the participants were in the ’middle’ category, with 68.4% (184 subjects). However, the ‘upper’ category had the highest average happiness of 4.63 (±0.68), although the difference was not statistically significant (p = 0.202)."
+  },
+  {
+   "para_id": "p23",
+   "section": "Results",
+   "text": "The average job satisfaction score among the subjects was 3.30 (±0.56). The average leisure satisfaction was 3.56 (±0.62), and average family strengths was 3.61 (±0.62). Lastly, the average happiness score was 4.28 (±0.74) (Table 2)."
+  },
+  {
+   "para_id": "p24",
+   "section": "Results",
+   "text": "This study analyzed the correlations among job satisfaction, leisure satisfaction, family strengths, and happiness among the subjects. The analysis revealed significant positive correlations between happiness and job satisfaction (r = 0.336, p < 0.001), leisure satisfaction (r = 0.433, p < 0.001), and family strengths (r = 0.459, p < 0.001) (Table 3)."
+  },
+  {
+   "para_id": "p25",
+   "section": "Results",
+   "text": "In this study, the factors that significantly influenced the happiness of male correctional officers were job satisfaction (β = 0.081, p = 0.036), family strengths (β = 0.081, p = 0.001), and leisure satisfaction (β = 0.078, p = 0.001), in that order. The total explanatory power of these variables was 26.0%. To assess the correlations among these indices, multicollinearity analysis was conducted. The Tolerance Limit in this study ranged between 0.624 and 0.995, which is well above the critical threshold of 0.1. Additionally, the Variance Inflation Factor (VIF), which is considered indicative of multicollinearity if it exceeds 10, was found to be between 1.005 and 1.603. These values suggest that multicollinearity was not a problem in this analysis. The Durbin-Watson statistic was 1.896, which demonstrates that the residuals were independent (Table 4)."
+  },
+  {
+   "para_id": "p26",
+   "section": "Discussion",
+   "text": "No one would dispute that happiness is the ultimate goal of an individual’s [25]. Grounded in the bottom-up spillover theory of happiness, this study identified job satisfaction, family strengths, and leisure satisfaction as the key factors that influence the happiness of Korean male correctional officers."
+  },
+  {
+   "para_id": "p27",
+   "section": "Discussion",
+   "text": "This result is consistent with a study of 2,246 teachers in Kalimantan, Indonesia, which found job satisfaction to be a significant factor in increasing happiness [26], and with a study of 494 employees in Spain, which identified job satisfaction is an important predictor of happiness [27]."
+  },
+  {
+   "para_id": "p28",
+   "section": "Discussion",
+   "text": "In Korean correctional institutions in 2022, 1,527 correctional incidents occurred, including suicides, fires, and assaults. Furthermore, detainees made 4,187 complaints to the National Human Rights Commission of Korea, 508 petitions, and 716 criminal charges and accusations against correctional officers. These incidents demonstrate the numerous challenges associated with the duties of correctional officers in South Korea [1]."
+  },
+  {
+   "para_id": "p29",
+   "section": "Discussion",
+   "text": "Job satisfaction is an emotional state of pleasure related to one’s job. Individuals with high job satisfaction possess positive attitudes towards their jobs, whereas those with low job satisfaction tend to have negative attitudes [28]. Positive emotions contribute to increasing an individual’s emotional well-being; they also help to regulate negative emotions [29]. Correctional officers who find their job satisfying and are enthusiastic tend to feel a sense of interest and belonging within their organization. They are more capable than officers who have low job satisfaction at resolving problems with positive rather than negative emotions, and thereby achieving optimal performance; this observation indicate the effect of job satisfaction on happiness [26]. Hence, job satisfaction is an influential factor in happiness. This relationship emphasizes the need to consider job satisfaction when developing happiness-enhancement programs for correctional officers."
+  },
+  {
+   "para_id": "p30",
+   "section": "Discussion",
+   "text": "The finding that family strengths affect the happiness of Korean male correctional officers is supported by research which shows that family strengths are intimately related to individual happiness. Chinese adults form families through marriage, sharing financial and psychological burdens with their spouses, finding joy in child-rearing, and fostering close relationships with family members. These aspects of family strengths significantly contribute to their happiness [30]. This view is corroborated by research from Hong Kong, which showed that increasing both verbal and non-verbal communication among family members (including direct and indirect methods like phone calls, social media, and emails) strengthens family interaction, cohesion, and adaptability, and thereby increases levels of happiness [31]. Caring for one’s family is considered one of the most fundamental human motivations [32], with the family unit being a pivotal aspect of personal life [33]. Within a framework that emphasizes strong family dynamics, every member holds strengths and potentials to overcome challenges and achieve growth, thereby fostering positive future development and transformation. Individuals nurtured in such healthy family environments are better equipped than those who are not, to care for themselves and establish stable families [17]."
+  },
+  {
+   "para_id": "p31",
+   "section": "Discussion",
+   "text": "South Koreans tend to favor a group-centric rather over an individual-centric orientation. In South Korea, interpersonal relationships tend to be less fluid and open compared to Western cultures, to individuals develop a preference for sustaining long-term relationships with existing families or partners rather than seeking new ones [15, 33]. Specifically for correctional officers, the conflict between workplace responsibilities and family life can lead to problems both at home and at work [18]; this relationship emphasizes the influence of family strengths on happiness of correctional officers. Consequently, family strengths must be included as a component of happiness enhancement programs for correctional officers."
+  },
+  {
+   "para_id": "p32",
+   "section": "Discussion",
+   "text": "This study’s findings on the influence of leisure satisfaction on the happiness of male correctional officers in Korea concurs with a study of 864 caregivers in Korea, which demonstrated that satisfaction with leisure activities significantly boosts happiness by fostering positive attitudes toward leisure activities and policies [9]. This notion is further supported by a study of 284 Korean adults, which found that individuals who earnestly participate in and devote time and effort to leisure activities gain increased confidence and a sense of achievement, which increase their happiness [34]."
+  },
+  {
+   "para_id": "p33",
+   "section": "Discussion",
+   "text": "Korean correctional officers encounter high levels of job stress due to direct exposure to physical, mental, and emotional violence from inmates. They also face administrative risks such as dealing with petitions, information disclosure requests, and complaints lodged with the National Human Rights Commission, along with legal risks including lawsuits and accusations [1]. Despite these challenges, Korean correctional officers navigate job stress by enduring, mastering inmate management techniques, and regaining their footing, a process that is composed of three stages. During this time, they often find relief from job stress by participating in leisure activities such as exercising, hiking, and traveling [35]. Leisure satisfaction stems from the positive perceptions or emotions that arise from engaging in leisure activities and fulfilling personal needs [22]. Correctional officers probably experience an increase in psychological satisfaction and overall happiness, because these leisure activities enable them to experience positive emotions like joy, and can help in either preventing or alleviating stress [9]. Therefore, the element of leisure satisfaction must be considered when developing programs to increase the happiness of correctional officers."
+  },
+  {
+   "para_id": "p34",
+   "section": "Discussion",
+   "text": "The limitations of this study are as follows. It focused entirely on male correctional officers, because most of correctional officers are male. Future research should include female correctional officers, and would thus broaden the implications of the analysis. Furthermore, the study was conducted among correctional officers working in facilities located in two specific cities (P and S). Consequently, these findings may not be generalizable to all correctional officers across South Korea. Future studies should consider a nationwide selection of regions. Finally, this study, as a quantitative investigation into the factors influencing the happiness of male correctional officers, may not capture and understand the nuances of happiness even within this specific occupational group. Future studies should incorporate qualitative methods to deepen the insight into the lived experiences of happiness among correctional officers, and to thoroughly explore the essence of happiness and its determinants."
+  },
+  {
+   "para_id": "p35",
+   "section": "Discussion",
+   "text": "Despite these constraints, this study is significant in its analysis of factors that could affect the mental health of correctional officers, especially within the male-dominated sector of this profession. This study contributes basic data that are essential for developing programs that aim to improve the mental health of correctional officers, and for informing policy recommendations for mental health enhancement. Moreover, this work is distinct from previous research on populations working in high-risk and specialized settings like correctional facilities, which has predominantly focused on factors that detrimentally affect mental health at work, such as burnout and job stress. In contrast, this identified factors such as happiness, that positively affect mental health in the workplace, and sought to identify elements that can positively transform the challenges experienced at work and in everyday life."
+  },
+  {
+   "para_id": "p36",
+   "section": "Conclusion",
+   "text": "Correctional officers perform a range of physically- and psychologically-demanding tasks within a restricted work environment. The diverse physical and psychological challenges in their work settings reduce their ability to cope with mental health problems and also significantly affect their psychological well-being. This study has revealed that job satisfaction, family strengths, and leisure satisfaction are key factors that influence the happiness of male correctional officers. Consequently, these findings indicate that future research to develop targeted programs and ongoing counseling services should aim to increase psychological well-being, such as happiness, particularly for correctional officers who have a high-risk occupation."
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "t1",
+   "label": "Table 1",
+   "caption": "General characteristics of subjects (N = 269).",
+   "footnotes": "",
+   "header_rows": [
+    [
+     "Variable",
+     "N (%)",
+     "M (SD)",
+     "T or F",
+     "p"
+    ]
+   ],
+   "rows": [
+    [
+     "Age",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "20s",
+     "29 (10.8)",
+     "4.51 (0.76)",
+     "2.061",
+     "0.106"
+    ],
+    [
+     "30s",
+     "95 (35.3)",
+     "4.15 (0.65)",
+     "",
+     ""
+    ],
+    [
+     "40s",
+     "86 (32.0)",
+     "4.34 (0.85)",
+     "",
+     ""
+    ],
+    [
+     "50s",
+     "59 (21.9)",
+     "4.28 (0.69)",
+     "",
+     ""
+    ],
+    [
+     "Marital status",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Singlea",
+     "117 (43.5)",
+     "4.22 (0.73)",
+     "4.319",
+     "0.014 (c < a, b)"
+    ],
+    [
+     "Marriedb",
+     "150 (65.8)",
+     "4.34 (0.73)",
+     "",
+     ""
+    ],
+    [
+     "Otherc",
+     "2 (0.7)",
+     "2.94 (0.08)",
+     "",
+     ""
+    ],
+    [
+     "Number of children",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "0",
+     "134 (49.8)",
+     "4.21 (0.71)",
+     "0.998",
+     "0.394"
+    ],
+    [
+     "1",
+     "47 (17.5)",
+     "4.29 (0.67)",
+     "",
+     ""
+    ],
+    [
+     "2",
+     "77 (28.6)",
+     "4.39 (0.84)",
+     "",
+     ""
+    ],
+    [
+     "≥ 3",
+     "11 (4.1)",
+     "4.22 (0.70)",
+     "",
+     ""
+    ],
+    [
+     "Religious affiliation",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Yes",
+     "102 (37.9)",
+     "4.19 (0.64)",
+     "-1.498",
+     "0.135"
+    ],
+    [
+     "No",
+     "167 (62.1)",
+     "4.33 (0.79)",
+     "",
+     ""
+    ],
+    [
+     "Years of service",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "≤ 10",
+     "128 (47.6)",
+     "4.22 (0.76)",
+     "1.083",
+     "0.357"
+    ],
+    [
+     "11–20",
+     "74 (27.5)",
+     "4.30 (0.74)",
+     "",
+     ""
+    ],
+    [
+     "21–30",
+     "50 (18.6)",
+     "4.30 (0.70)",
+     "",
+     ""
+    ],
+    [
+     "≥ 31",
+     "17 (6.3)",
+     "4.56 (0.72)",
+     "",
+     ""
+    ],
+    [
+     "Rank",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Grade 9",
+     "74 (27.5)",
+     "4.22 (0.74)",
+     "0.632",
+     "0.595"
+    ],
+    [
+     "Grade 8",
+     "58 (21.6)",
+     "4.27 (0.60)",
+     "",
+     ""
+    ],
+    [
+     "Grade 7",
+     "86 (32.0)",
+     "4.26 (0.90)",
+     "",
+     ""
+    ],
+    [
+     "Grade 6",
+     "51 (19.0)",
+     "4.40 (0.61)",
+     "",
+     ""
+    ],
+    [
+     "Areas of work",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Security",
+     "215 (79.9)",
+     "4.26 (0.72)",
+     "1.039",
+     "0.395"
+    ],
+    [
+     "Medical",
+     "8 (3.0)",
+     "4.18 (1.05)",
+     "",
+     ""
+    ],
+    [
+     "Social reintegration",
+     "13 (4.8)",
+     "4.26 (0.43)",
+     "",
+     ""
+    ],
+    [
+     "Vocational training",
+     "8 (3.0)",
+     "4.75 (0.91)",
+     "",
+     ""
+    ],
+    [
+     "Administrative",
+     "21 (7.8)",
+     "4.23 (0.96)",
+     "",
+     ""
+    ],
+    [
+     "Welfare",
+     "4 (1.5)",
+     "4.75 (0.42)",
+     "",
+     ""
+    ],
+    [
+     "Economic status",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Upper",
+     "8 (3.0)",
+     "4.63 (0.68)",
+     "1.608",
+     "0.202"
+    ],
+    [
+     "Middle",
+     "184 (68.4)",
+     "4.30 (0.72)",
+     "",
+     ""
+    ],
+    [
+     "Lower",
+     "77 (28.6)",
+     "4.18 (0.80)",
+     "",
+     ""
+    ]
+   ]
+  },
+  {
+   "table_id": "t2",
+   "label": "Table 2",
+   "caption": "Levels of job satisfaction, leisure satisfaction, family strengths, and happiness among subjects (N = 269).",
+   "footnotes": "",
+   "header_rows": [
+    [
+     "Category",
+     "M (SD)",
+     "Min",
+     "Max"
+    ]
+   ],
+   "rows": [
+    [
+     "Job satisfaction",
+     "3.30 (0.56)",
+     "1.00",
+     "5.00"
+    ],
+    [
+     "Leisure satisfaction",
+     "3.56 (0.62)",
+     "1.50",
+     "5.00"
+    ],
+    [
+     "Family strengths",
+     "3.61 (0.62)",
+     "1.91",
+     "5.00"
+    ],
+    [
+     "Happiness",
+     "4.28 (0.74)",
+     "2.00",
+     "7.00"
+    ]
+   ]
+  },
+  {
+   "table_id": "t3",
+   "label": "Table 3",
+   "caption": "Correlations among job satisfaction, leisure satisfaction, family strengths, and happiness (N = 269).",
+   "footnotes": "",
+   "header_rows": [
+    [
+     "Category",
+     "Job satisfaction",
+     "Leisure satisfaction",
+     "Family strengths",
+     "Happiness"
+    ],
+    [
+     "",
+     "r (p)",
+     "r (p)",
+     "r (p)",
+     "r (p)"
+    ]
+   ],
+   "rows": [
+    [
+     "Job satisfaction",
+     "1",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Leisure satisfaction",
+     "0.433 (<0.001)",
+     "1",
+     "",
+     ""
+    ],
+    [
+     "Family strengths",
+     "0.433 (<0.001)",
+     "0.554 (<0.001)",
+     "1",
+     ""
+    ],
+    [
+     "Happiness",
+     "0.336 (<0.001)",
+     "0.433 (<0.001)",
+     "0.459 (<0.001)",
+     "1"
+    ]
+   ]
+  },
+  {
+   "table_id": "t4",
+   "label": "Table 4",
+   "caption": "Factors influencing happiness (N = 269).",
+   "footnotes": "Durbin-Watson = 1.896, Tolerance Limit = 0.624~0.995, VIF = 1.005~1.603 R2 = 0.274, Adjusted R2 = 0.260, F = 19.535, p < 0.001",
+   "header_rows": [
+    [
+     "Factors",
+     "B",
+     "β",
+     "SE",
+     "t",
+     "p"
+    ]
+   ],
+   "rows": [
+    [
+     "(Constant)",
+     "1.587",
+     "0.289",
+     "",
+     "5.492",
+     "0.001"
+    ],
+    [
+     "Marital status (ref: Single)",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Married",
+     "0.021",
+     "0.080",
+     "0.014",
+     ".260",
+     "0.795"
+    ],
+    [
+     "Other",
+     "-1.127",
+     "0.639",
+     "-0.094",
+     "-1.762",
+     "0.079"
+    ],
+    [
+     "Job satisfaction",
+     "0.171",
+     "0.081",
+     "0.128",
+     "2.106",
+     "0.036"
+    ],
+    [
+     "Leisure satisfaction",
+     "0.266",
+     "0.078",
+     "0.223",
+     "3.392",
+     "0.001"
+    ],
+    [
+     "Family strengths",
+     "0.325",
+     "0.081",
+     "0.270",
+     "4.033",
+     "0.001"
+    ]
+   ]
+  }
+ ]
+}
