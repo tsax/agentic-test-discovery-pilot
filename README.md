@@ -11,7 +11,9 @@ This repository is a one-day pilot (November 10, 2026) of that idea, run on 40 o
 3. **Ran existing checks.** GRIM and statcheck (`baselines/`).
 4. **Let the agent invent checks.** Three independent runs of Claude each wrote a checking program, got a score from a black-box judge (`climb/score.py`), read its mistakes, and rewrote the program, for about 15 rounds each. Every attempt, score and keep/reject decision is logged (`climb/runs/*/trajectory.jsonl`).
 5. **Final exam.** The resulting checks were scored once, on 16 papers and 4 error kinds the agent never saw (`results/run_final.py`; the selection rule was committed before the search finished).
-6. **Second opinion on real flags.** Each flag on the original, unmodified papers was judged by a separate model that was not told which check raised it (`verify/verify.py`).
+6. **Audit of the baselines.** Our first statcheck/GRIM counts came from our own text extraction, so Claude independently re-read all 40 papers and the same deterministic code re-ran on what it found (`audit/`).
+7. **Deposited data (stretch).** For papers whose authors posted data, a reconciliation check compares reported statistics with values recomputed from the deposit (`deposits/`).
+8. **Second opinion on real flags.** Each flag on the original, unmodified papers was judged by a separate model that was not told which check raised it (`verify/verify.py`).
 
 The git history shows the order: search setup → frozen answer key → baselines → pre-registered scoring rule → search results → held-out scores.
 
@@ -21,7 +23,8 @@ See [`RESULTS.md`](RESULTS.md). In short:
 
 | | GRIM | statcheck | Agent-discovered tests (3 together) |
 |---|---|---|---|
-| Papers it could check (of 40) | 0 | 8 | 40 |
+| Papers with inputs the check can use (of 40, audited) | at most 5 | 9 (14 with AI extraction of tables) | n/a |
+| Papers where it caught a planted error (of 37) | 0 | 6 | 32 |
 | Held-back error kinds caught, unseen papers | 0 of 78 | 9 of 78 (all of the one kind it was built for) | 23 of 78 |
 | Original papers with a model-confirmed inconsistency | 0 | 3 | 9 |
 

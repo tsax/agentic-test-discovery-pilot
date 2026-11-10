@@ -1,0 +1,11 @@
+{
+ "counts": {
+  "grim": 0,
+  "statcheck": 6,
+  "A": 23,
+  "B": 28,
+  "C": 23,
+  "A+B+C": 32,
+  "papers_with_any_planted_error": 37
+ }
+}

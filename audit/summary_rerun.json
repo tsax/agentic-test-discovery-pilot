@@ -1,0 +1,17 @@
+{
+ "papers": 23,
+ "failed": 0,
+ "papers_with_any_test_found": 23,
+ "papers_statcheck_applicable": 11,
+ "tests_found": 481,
+ "tests_checkable": 50,
+ "statcheck_errors": 20,
+ "papers_with_statcheck_error": 5,
+ "papers_with_any_mean_and_n": 23,
+ "means_found": 407,
+ "means_integer_valued": 167,
+ "papers_grim_applicable": 3,
+ "means_grim_testable": 11,
+ "grim_inconsistent": 0,
+ "cost_usd": 3.32
+}
